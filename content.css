@@ -1,0 +1,11 @@
+.headline {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: blue;
+}
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: brown;
+}
